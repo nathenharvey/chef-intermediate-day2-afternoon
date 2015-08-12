@@ -6,3 +6,8 @@ num_nodes = 3
     # action :destroy # uncomment this line to clean-up
   end
 end
+
+# See also:
+#   * https://github.com/chef/chef-provisioning
+#   * https://github.com/chef/chef-provisioning-aws
+#   * https://github.com/CenturyLinkCloud/chef-provisioning-vsphere
